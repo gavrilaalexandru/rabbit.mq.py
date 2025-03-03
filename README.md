@@ -1,1 +1,1 @@
-# rabbit.mq.py.learning
+# rabbit.mq.py
